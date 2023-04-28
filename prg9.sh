@@ -2,7 +2,7 @@
 #Script for Arithmetic operations
 read -p "Enter value of x:" x
 read -p "Enter value of y:" y
-echo "Arithmetic Operations...
+echo "Arithmetic Operations...here
 + :Additon
 -: Subtraction
 *: Multiplication
