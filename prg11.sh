@@ -1,6 +1,7 @@
 #!/bin/bash
 #Test given integegers which is greater.
 #
+#Another comment
 read -p "Enater first number:" num1
 read -p "Enter second number:" num2
 echo "Given numbers are $num1 and $num2"
